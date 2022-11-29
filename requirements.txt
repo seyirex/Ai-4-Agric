@@ -3,5 +3,5 @@ streamlit
 tensorflow==2.9.0
 tensorboard==2.9.0
 numpy
-# pillow
-# keras
+pillow==9.3.0 
+keras==2.11.0 
