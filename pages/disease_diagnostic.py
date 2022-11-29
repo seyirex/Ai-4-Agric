@@ -24,8 +24,8 @@ st.set_option('deprecation.showfileUploaderEncoding', False)
 # rule=pred()
 def main():
     #loading the model
-    model=load_model_diseaes()
-    class_names=load_class_diseaes()
+    # model=load_model_diseaes()
+    # class_names=load_class_diseaes()
     # hiding the footer text
     hide_streamlit_style = """
             <style>
@@ -51,7 +51,7 @@ def main():
 
         test_image = Image.open(file).convert('RGB')
         st.image(test_image, caption="Image", width = 400)
-        pred = predict_class( test_image, model,class_names)
+        pred = predict_class( test_image, load_model_diseaes(),load_class_diseaes())
         st.write(pred)
 
 
