@@ -1,0 +1,11 @@
+0 Aphids
+1 Armyworm
+2 Beetle
+3 Bollworm
+4 Grasshopper
+5 Mites
+6 Sawfly
+7 Stemborer
+8 Whitefly
+9 Thrips
+10 Unknown

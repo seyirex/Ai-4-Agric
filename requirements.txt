@@ -1,0 +1,7 @@
+# protobuf==3.19.4
+streamlit
+tensorflow==2.9.0
+tensorboard==2.9.0
+numpy
+# pillow
+# keras

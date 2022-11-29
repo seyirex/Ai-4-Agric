@@ -1,0 +1,30 @@
+# This pest is called **Thrips**
+
+## Treament
+____________________________________________________________________________________________________________________
+### About this pest
+Thrips are tiny insects that puncture the outer layer of host plants, sucking out the content of the cells. This results in discoloration, stippling, scaring or silvering of leaves and fruit surfaces and a reduction in the production of the plant. If there is a high infestation of thrips they can cause the leaves to wither. Thrips can move long distances by floating where the wind takes them or by being transported on infested plants.
+
+### Thrips Control Methods
+Thrips are a difficult pest to control, which is why it is best to use an integrated management system that includes the use of natural enemies, good cultural control methods and the use of the least-toxic insecticide that will still eradicate thrips. It is important to know that the presence of thrips does not mean they will damage your plants and they may not even be present by the time you try a control method. Before taking action to control thrips, make sure that the pest thrips is the bug that is actually causing the damage. If there are plants that you suspect are infested by the thrips-vectored viruses, it can be easily diagnosed by sending a sample from the plant to a lab that test for plant pathogens.
+
+### Cultural Control
+
+For optimal control and prevention, grow plants that are well-adapted to the soil and weather conditions in your area. Keep plants well irrigated and avoid applying excessive amounts of nitrogen, this will promote the population of thrips. Some varieties of thrips damage light-coloured, fragrant roses. Rose cultivars can be an effective control method, with sepals that stay tightly wrapped around the bub up until the blooms open.
+
+Pruning is another control method that works well. It is important that you destroy injured and infested terminals. Cut the plants just about the crotch of the branch and nodes instead of shearing off terminals.
+
+Using hot caps, row covers and other types of cages with a fine mesh can eliminate thrips from eating your vegetables and other young herbaceous plants. Any kind of covering that excludes insects and allows the light and air to penetrate can be used. For coverage on sturdy crops that do not grow tall, floating row covers can be put on top of the beds with no frames or hoops. As for plants with sensitive tips that are easily damaged, use hoops, plastic tunnels of wire strung up between posts and prop the covers up. Using wood, plastic or wire frames that are covered with nylon, muslin or other fine mesh can be used for many years. It is most effective to apply the covers before crops have emerged and left on while they are still young and most vulnerable to damage. Once the temperatures get warmer or plants become larger, take off the covers to give them enough space to grow. At this point, light irrigation is necessary when using row covers.
+
+### Chemical Control
+
+Damage done by thrips is unsightly and does not typically warrant the use of insecticide. Thrips can be a difficult pest to manage and control effectively due to their mobility, feeding behavior, and protected egg and pupal stages. Injury usually goes unnoticed until after the tissue grows and explants. Therefore, the thrip that caused the damage is often gone. There is no pesticide application that can restore the appearance of the damaged tissue. If plant viruses are a problem, insecticides typically do not kill thrips fast enough to stop the transfer of the virus. Using cultural control methods such as row covers is the more effective way to prevent infection.
+
+Be sure to carefully read the label for cautions and proper application. It is extremely important to never spray on days that are windy. Contact insecticide that do not leave persistent residue is most effective for greenhouse thrips. These particular insecticides have low toxicity to people, pets and pollinators. Adequate contact insecticides include neem oil (Schultz Garden Safe Brand Neem Oil, Green Light Neem), insecticidal soaps (Safer), pyrethrins combine with piperonyl butoxide (Garden Tech Worry Free Brand Concentrate, Ace Flower & Vegetable Insect Spray), azadirachtin (Safer Brand BioNeem, AzaMax), and narrow-range oil (Monterey Horticultural Oil Bonide Horticultural Oil). For these insecticides to be most effective, they must thoroughly cover shoot tips, buds, and any other vulnerable plant part where thrips could be living and feeding. If plants have a history of unexplained damage, start treatment early when thrips our first observed. Unless told otherwise by the label on the product, periodically repeat application if thrips are still present.
+
+It has been seen that spinosad (Monterey Garden Insect Spray, Green Light Lawn & Garden Spray with Spinosad 2, Captain Jack’s Deadbug Brew) is usually more effective against thrips. This particular chemical lasts a minimum of 1 week and can move short distances into plant tissue to reach the part of the plants that thrips feed on. Adding horticultural oil to the mixture has the potential to increase the resistance within plant tissue. This particular insecticide is a fermentation product and can be toxic to natural enemies such as predatory mites and bees for a minimum of 24 hours after it has been applied. Do not apply to plants that are flowering.
+
+There are a few chemicals that you should avoid using. Avoid foliar sprays of other organophosphate insecticides (e.g., malathion), pyrethroids (e.g., bifenthrin, cyfluthrin, permethrin and fluvalinate) or carbamates (carbaryl) along with Systemic organophosphate acephate (Orthene, Lilly Miller Ready-to-Use Systemic). Avoid using these chemicals as they are highly toxic to natural enemies and pollination. The use of these chemicals can cause outbreaks of spider mites, can damage plants after application and are not particularly effective on most varieties of thrips.
+
+## Recommended Pesticide
+
