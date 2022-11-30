@@ -1,5 +1,5 @@
 import streamlit as st
-from helper import *
+from utils.helper import *
 import streamlit.components.v1 as stc
 menu_items = {
 	'Get help': 'https://www.linkedin.com/in/---/',
@@ -11,7 +11,7 @@ menu_items = {
 	'''
 }
 
-st.set_page_config(page_title="debug", page_icon="./images/Favicon1.png", layout='centered',menu_items=menu_items)
+st.set_page_config(page_title="A4A", page_icon="./images/Favicon1.png", layout='centered',menu_items=menu_items)
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
 

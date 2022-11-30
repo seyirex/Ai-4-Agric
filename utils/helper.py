@@ -7,22 +7,22 @@ import numpy as np
 
 @st.cache(allow_output_mutation=True)
 def load_model_diseaes():
-    model = load_model("../Ai-4-Agric/model/disease_model/keras_model.h5",compile=False)
+    model = load_model("../model/disease_model/keras_model.h5",compile=False)
     return model
 
 @st.cache(allow_output_mutation=True)
 def load_class_diseaes():
-    class_names = open('../Ai-4-Agric/model/disease_model/labels.txt', 'r').readlines()
+    class_names = open('../model/disease_model/labels.txt', 'r').readlines()
     return class_names
 
 @st.cache(allow_output_mutation=True)
 def load_model_pest():
-    model = load_model('../Ai-4-Agric/model/pest_model/keras_model.h5')
+    model = load_model('../model/pest_model/keras_model.h5')
     return model
 
 @st.cache(allow_output_mutation=True)
 def load_class_pest():
-    class_names = open('../Ai-4-Agric/model/pest_model/labels.txt', 'r').readlines()
+    class_names = open('../model/pest_model/labels.txt', 'r').readlines()
     return class_names
 
 def read_markdown_file(markdown_file):
@@ -83,6 +83,6 @@ def predict_class(img, model,class_names):
     index = np.argmax(prediction)
     class_name = class_names[index]
     confidence_score = prediction[0][index]
-    return f"{class_name} is the name of the diseaes detected in the leaf, with a confidence score of {round(confidence_score,3)}"
+    return f"{class_name} is the name of the diseaes detected in the leaf, with a confidence score of {confidence_score} % "
 
 
