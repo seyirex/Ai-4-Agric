@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-from helper import *
+from utils.helper import *
 import streamlit.components.v1 as stc
 # from keras.models import load_model
 

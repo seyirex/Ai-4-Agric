@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-from helper import (
+from utils.helper import (
     # predict_class,
     load_class_pest,
     load_model_pest,
@@ -75,7 +75,7 @@ def main():
         index = np.argmax(prediction)
         class_name = class_names[index]
         confidence_score = prediction[0][index]
-        st.write(f"{class_name} is the name of the diseaes detected in the leaf, with a confidence score of {round(confidence_score,3)}")
+        st.write(f"{class_name} is the name of the diseaes detected in the leaf, with a confidence score of {confidence_score} %")
         # pred = predict_class(test_image, load_model_pest(),load_class_pest())
         # st.write(index)
         
